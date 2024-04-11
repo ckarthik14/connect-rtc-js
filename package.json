@@ -1,5 +1,5 @@
 {
-  "name": "connect-rtc-js",
+  "name": "@ckarthik114/connect-rtc",
   "version": "1.1.23",
   "description": "Amazon Connect softphone library",
   "license": "Apache-2.0",
@@ -8,10 +8,6 @@
     "name": "Amazon Web Services",
     "email": "",
     "url": "http://aws.amazon.com/"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/aws/connect-rtc-js.git"
   },
   "homepage": "https://github.com/aws/connect-rtc-js",
   "contributors": [
@@ -62,5 +58,16 @@
     "sinon": "^2.1.0",
     "tape": "^4.6.3",
     "travis-multirunner": "^3.1.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckarthik14/connect-rtc-js.git"
+  },
+  "author": "Amazon Web Services",
+  "bugs": {
+    "url": "https://github.com/racker/connect-rtc-js/issues"
   }
 }
